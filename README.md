@@ -12,10 +12,10 @@ Wenhui Tan<sup>1</sup>, Minghao Li<sup>2</sup>, Xiaoqian Ma<sup>2</sup>, Siqi Fa
     <img src="https://img.shields.io/badge/arXiv-2605.27255-b31b1b.svg?style=flat" alt="arXiv">
   </a>
   <a href="https://huggingface.co/AlbertTan/PIPO">
-    <img src="https://img.shields.io/badge/Hugging%20Face-Checkpoints%20(Coming%20Soon)-FFD21E.svg?style=flat" alt="HF-Checkpoints">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Checkpoints-FFD21E.svg?style=flat" alt="HF-Checkpoints">
   </a>
   <a href="https://huggingface.co/datasets/AlbertTan/PIPO">
-    <img src="https://img.shields.io/badge/Hugging%20Face-Datasets%20(Coming%20Soon)-FFD21E.svg?style=flat" alt="HF-Datasets">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Datasets-FFD21E.svg?style=flat" alt="HF-Datasets">
   </a>
 </p>
 
